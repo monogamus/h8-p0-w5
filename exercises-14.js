@@ -51,7 +51,6 @@ function setLowerUpperCase (str) {
         result.push(str[i].toUpperCase())
       }
     }
-
     return result
 }
   
